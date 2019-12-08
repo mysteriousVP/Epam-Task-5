@@ -1,0 +1,14 @@
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\DAL_ADO.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\DAL_ADO.pdb
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.Permissions.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.Permissions.xml
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\obj\Debug\DAL_ADO.csprojAssemblyReference.cache
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\obj\Debug\DAL_ADO.csproj.CopyComplete
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\obj\Debug\DAL_ADO.dll
+C:\Users\Vadym\Desktop\Task5Epam\DAL_ADO\obj\Debug\DAL_ADO.pdb

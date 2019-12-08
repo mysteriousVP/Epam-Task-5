@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vadym\\Desktop\\Task5Epam\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vadym\\Desktop\\Task5Epam\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_ADO\\DAL_ADO.csproj": {
+                "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_ADO\\DAL_ADO.csproj"
+              },
+              "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_EF\\DAL_EF.csproj": {
+                "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_EF\\DAL_EF.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_ADO\\DAL_ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_ADO\\DAL_ADO.csproj",
+        "projectName": "DAL_ADO",
+        "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_ADO\\DAL_ADO.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_EF\\DAL_EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_EF\\DAL_EF.csproj",
+        "projectName": "DAL_EF",
+        "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\DAL_EF\\DAL_EF.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Vadym\\Desktop\\Task5Epam\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Vadym\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vadym\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Vadym\\Desktop\\Task5Epam\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Vadym\\Desktop\\Task5Epam\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
